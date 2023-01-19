@@ -11,5 +11,9 @@ A página (formulário) funciona como base para um meio de comunicação em mass
 
 ## Página em execução
 
-<img src="./imagens/pagina.png" alt="pagina em execução">
+### 500 px
+<img src="./imagens/cap_500px.png" alt="pagina em execução">
+
+### 1500 px
+<img src="./imagens/cap_1500px.png" alt="pagina em execução">
 
