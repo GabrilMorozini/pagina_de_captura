@@ -10,5 +10,24 @@ A página (formulário) funciona como base para um meio de comunicação em mass
 
 
 ## Página em execução
-<br><br>
+
+<br>
 <img src="./imagens/pagina_captura.png" alt="pagina em execução">
+
+<div align="center">
+
+[Visualizar Página](https://gabrielmorozini.com.br/pagina_de_captura/)
+</div>
+<br>
+
+<div align=center>
+
+  <a href="mailto:gabril.dev@gmail.com" >
+    <img src="https://img.shields.io/badge/gabril.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
+  
+   <a href="https://www.linkedin.com/in/gabrielmorozini/">
+    <img src="https://img.shields.io/badge/linkedin.com/in/gabrielmorozini/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail">
+  </a>  
+
+</div>
